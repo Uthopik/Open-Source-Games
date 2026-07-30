@@ -33,6 +33,8 @@ Games included so far:
 
 * KMahjongg-x86_64.AppImage                      (https://apps.kde.org/es/kmahjongg)
 
+* Mr.Boom-x86_64.AppImage                        (https://github.com/Javanaise/mrboom-libretro)
+
 * Pingus-x86_64.AppImage                         (https://pingus.seul.org)
 
 * Secret-Maryo-Chronicles-i686.AppImage          (http://www.secretmaryo.org)
