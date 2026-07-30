@@ -19,6 +19,8 @@ Games included so far:
 
 * Enigma-x86_64.AppImage                         (https://www.nongnu.org/enigma)
 
+* Extreme_Tux_Racer-x86_64.AppImage              (https://sourceforge.net/projects/extremetuxracer)
+
 * FiveOrMore-x86_64.AppImage                     (https://gitlab.gnome.org/GNOME/five-or-more)
 
 * Four-in-a-Row-x86_64.AppImage                  (https://gitlab.gnome.org/GNOME/four-in-a-row)
