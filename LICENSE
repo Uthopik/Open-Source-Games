@@ -672,3 +672,15 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
+
+
+
+
+MIT License
+
+Copyright (c) 2018 Jean-François Fabre (Jrme) - MrBoom Original Author
+Copyright (c) 2026 Uthopik - AppImage packaging
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction privileges...
