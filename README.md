@@ -48,6 +48,8 @@ Games included so far:
 * XGalaga-x86_64.AppImage                        (https://sourceforge.net/projects/xgalaga/)
 
 ---
+Games:                                           https://github.com/Uthopik/Open-Source-Games/releases/tag/v1.0
+---
 
 If there’s an old game or programme you’d like to see in this collection, let me know and I’ll see what I can do. Just make sure it’s open source.
 
