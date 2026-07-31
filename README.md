@@ -35,6 +35,8 @@ Games included so far:
 
 * Mr.Boom-x86_64.AppImage                        (https://github.com/Javanaise/mrboom-libretro)
 
+* Open_Sonic-i686.AppImage                       (https://opensnc.sourceforge.net/home/index.php)
+
 * Pingus-x86_64.AppImage                         (https://pingus.seul.org)
 
 * Reversi-x86_64.AppImage                        (https://gitlab.gnome.org/GNOME/iagno)
