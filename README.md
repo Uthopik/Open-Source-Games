@@ -45,6 +45,8 @@ Games included so far:
 
 * Sudoku-x86_64.AppImage                         (https://github.com/sepehr-rs/Sudoku)
 
+* XGalaga-x86_64.AppImage                        (https://sourceforge.net/projects/xgalaga/)
+
 ---
 
 If there’s an old game or programme you’d like to see in this collection, let me know and I’ll see what I can do. Just make sure it’s open source.
