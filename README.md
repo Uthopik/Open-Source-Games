@@ -37,6 +37,8 @@ Games included so far:
 
 * Pingus-x86_64.AppImage                         (https://pingus.seul.org)
 
+* Reversi-x86_64.AppImage                        (https://gitlab.gnome.org/GNOME/iagno)
+
 * Secret-Maryo-Chronicles-i686.AppImage          (http://www.secretmaryo.org)
 
 * Solitario_Aislerot-x86_64.AppImage             (https://gitlab.gnome.org/GNOME/aisleriot)
