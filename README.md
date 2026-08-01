@@ -47,6 +47,8 @@ Games included so far:
 
 * Sudoku-x86_64.AppImage                         (https://github.com/sepehr-rs/Sudoku)
 
+* Turres_Monacorum-x86_64.AppImage               (https://github.com/nczempin/Turres-Monacorum)
+
 * Wizznic-x86_64.AppImage                        (https://sourceforge.net/projects/wizznic)
 
 * XGalaga-x86_64.AppImage                        (https://sourceforge.net/projects/xgalaga/)
