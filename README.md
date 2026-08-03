@@ -45,6 +45,8 @@ Games included so far:
 
 * Solitario_Aislerot-x86_64.AppImage             (https://gitlab.gnome.org/GNOME/aisleriot)
 
+* Sonic_Robo_Blast_2-x86_64.Appimage             (https://github.com/STJr/SRB2)
+
 * Sudoku-x86_64.AppImage                         (https://github.com/sepehr-rs/Sudoku)
 
 * SuperTuxKart-x86_64.AppImage                   (https://github.com/supertuxkart/stk-code)
