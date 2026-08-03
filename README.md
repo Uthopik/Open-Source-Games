@@ -47,6 +47,8 @@ Games included so far:
 
 * Sonic_Robo_Blast_2-x86_64.Appimage             (https://github.com/STJr/SRB2)
 
+* SRB2Kart-x86_64.AppImage                       (https://github.com/STJr/Kart-Public)
+
 * Sudoku-x86_64.AppImage                         (https://github.com/sepehr-rs/Sudoku)
 
 * SuperTuxKart-x86_64.AppImage                   (https://github.com/supertuxkart/stk-code)
