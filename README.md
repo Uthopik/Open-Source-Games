@@ -33,6 +33,8 @@ Games included so far:
 
 * KMahjongg-x86_64.AppImage                      (https://apps.kde.org/es/kmahjongg)
 
+* Kobo_Deluxe-x86_64.AppImage                    (https://olofson.net/kobodl)
+
 * Mr.Boom-x86_64.AppImage                        (https://github.com/Javanaise/mrboom-libretro)
 
 * Neverball-x86_64.AppImage                      (https://github.com/Neverball/neverball)
