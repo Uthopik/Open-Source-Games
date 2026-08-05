@@ -41,6 +41,8 @@ Games included so far:
 
 * Open_Sonic-i686.AppImage                       (https://opensnc.sourceforge.net/home/index.php)
 
+* OpenTyrian-x86_64.AppImage                     (https://github.com/opentyrian/opentyrian)
+
 * Pingus-x86_64.AppImage                         (https://pingus.seul.org)
 
 * Reversi-x86_64.AppImage                        (https://gitlab.gnome.org/GNOME/iagno)
