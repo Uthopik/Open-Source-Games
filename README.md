@@ -25,6 +25,8 @@ Games included so far:
 
 * Four-in-a-Row-x86_64.AppImage                  (https://gitlab.gnome.org/GNOME/four-in-a-row)
 
+* Frozen_Bubble-x86_64.AppImage                  (https://github.com/kthakore/frozen-bubble)
+
 * GNURobbo-i686.AppImage                         (https://gnurobbo.sourceforge.net)
 
 * GPlanarity-i686.AppImage                       (https://web.mit.edu/xiphmont/Public/gPlanarity.html)
