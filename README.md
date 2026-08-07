@@ -61,6 +61,8 @@ Games included so far:
 
 * SuperTuxKart-x86_64.AppImage                   (https://github.com/supertuxkart/stk-code)
 
+* Taisei_Project-x86_64                          (https://github.com/taisei-project/taisei)
+
 * Turres_Monacorum-x86_64.AppImage               (https://github.com/nczempin/Turres-Monacorum)
 
 * Wizznic-x86_64.AppImage                        (https://sourceforge.net/projects/wizznic)
