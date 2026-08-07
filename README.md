@@ -59,6 +59,8 @@ Games included so far:
 
 * Sudoku-x86_64.AppImage                         (https://github.com/sepehr-rs/Sudoku)
 
+* Super_Tux_Advance-x86_64                       (https://github.com/kelvinshadewing/supertux-advance)
+
 * SuperTuxKart-x86_64.AppImage                   (https://github.com/supertuxkart/stk-code)
 
 * Taisei_Project-x86_64                          (https://github.com/taisei-project/taisei)
