@@ -17,6 +17,8 @@ Games included so far:
 
 * BlockOut_II-x86_64.AppImage                    (http://www.blockout.net/blockout2)
 
+* Bomberclone-x86_64.AppImage                    (https://github.com/promi/bomberclone)
+
 * Enigma-x86_64.AppImage                         (https://www.nongnu.org/enigma)
 
 * Extreme_Tux_Racer-x86_64.AppImage              (https://sourceforge.net/projects/extremetuxracer)
