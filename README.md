@@ -49,6 +49,8 @@ Games included so far:
 
 * Pingus-x86_64.AppImage                         (https://pingus.seul.org)
 
+* Powermanga-x86_64.AppImage                     (https://github.com/brunonymous/Powermanga)
+
 * Reversi-x86_64.AppImage                        (https://gitlab.gnome.org/GNOME/iagno)
 
 * Secret-Maryo-Chronicles-i686.AppImage          (http://www.secretmaryo.org)
