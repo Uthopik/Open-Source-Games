@@ -47,6 +47,8 @@ Games included so far:
 
 * OpenTyrian-x86_64.AppImage                     (https://github.com/opentyrian/opentyrian)
 
+* Pathological-x86_64.AppImage                   (https://sourceforge.net/projects/pathological)
+
 * Pingus-x86_64.AppImage                         (https://pingus.seul.org)
 
 * Powermanga-x86_64.AppImage                     (https://github.com/brunonymous/Powermanga)
