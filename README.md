@@ -55,6 +55,8 @@ Games included so far:
 
 * Reversi-x86_64.AppImage                        (https://gitlab.gnome.org/GNOME/iagno)
 
+* Ri-li-x86_64.AppImage                          (https://ri-li.sourceforge.net/index.html)
+
 * Secret-Maryo-Chronicles-i686.AppImage          (http://www.secretmaryo.org)
 
 * Solitario_Aislerot-x86_64.AppImage             (https://gitlab.gnome.org/GNOME/aisleriot)
