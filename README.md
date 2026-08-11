@@ -75,6 +75,8 @@ Games included so far:
 
 * Taisei_Project-x86_64.AppImage                 (https://github.com/taisei-project/taisei)
 
+* TecnoballZ-x86_64.AppImage                     (https://github.com/brunonymous/tecnoballz)
+
 * TripFunnyBoat-x86_64.AppImage                  (https://funnyboat.sourceforge.net/index.html)
 
 * Turres_Monacorum-x86_64.AppImage               (https://github.com/nczempin/Turres-Monacorum)
