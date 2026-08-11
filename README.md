@@ -77,6 +77,8 @@ Games included so far:
 
 * TecnoballZ-x86_64.AppImage                     (https://github.com/brunonymous/tecnoballz)
 
+* TileWorld-x86_64.AppImage                      (https://www.muppetlabs.com/~breadbox/software/tworld)
+
 * TripFunnyBoat-x86_64.AppImage                  (https://funnyboat.sourceforge.net/index.html)
 
 * Turres_Monacorum-x86_64.AppImage               (https://github.com/nczempin/Turres-Monacorum)
