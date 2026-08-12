@@ -79,6 +79,8 @@ Games included so far:
 
 * TileWorld-x86_64.AppImage                      (https://www.muppetlabs.com/~breadbox/software/tworld)
 
+* TileWorld2-x86_64.AppImage                     (https://tw2.bitbusters.club)
+
 * TripFunnyBoat-x86_64.AppImage                  (https://funnyboat.sourceforge.net/index.html)
 
 * Turres_Monacorum-x86_64.AppImage               (https://github.com/nczempin/Turres-Monacorum)
