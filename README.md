@@ -19,7 +19,9 @@ Games included so far:
 
 * Bomberclone-x86_64.AppImage                    (https://github.com/promi/bomberclone)
 
-* Briquolo-x86_64                                (http://briquolo.free.fr/en/infos.html)
+* Briquolo-x86_64.AppImage                       (http://briquolo.free.fr/en/infos.html)
+
+* CuteMaze-x86_64.AppImage                       (https://gottcode.org/cutemaze)
 
 * Enigma-x86_64.AppImage                         (https://www.nongnu.org/enigma)
 
