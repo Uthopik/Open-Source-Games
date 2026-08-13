@@ -85,6 +85,8 @@ Games included so far:
 
 * Turres_Monacorum-x86_64.AppImage               (https://github.com/nczempin/Turres-Monacorum)
 
+* Whichwayisup-x86_64.AppImage                   (https://salsa.debian.org/games-team/whichwayisup)
+
 * Wizznic-x86_64.AppImage                        (https://sourceforge.net/projects/wizznic)
 
 * XGalaga-x86_64.AppImage                        (https://sourceforge.net/projects/xgalaga/)
