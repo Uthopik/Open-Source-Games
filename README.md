@@ -71,6 +71,8 @@ Games included so far:
 
 * SRB2Kart-x86_64.AppImage                       (https://github.com/STJr/Kart-Public)
 
+* Starfighter-x86_64.AppImage                    (https://github.com/pr-starfighter/starfighter)
+
 * Sudoku-x86_64.AppImage                         (https://github.com/sepehr-rs/Sudoku)
 
 * Super_Tux_Advance-x86_64.AppImage              (https://github.com/kelvinshadewing/supertux-advance)
