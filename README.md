@@ -1,3 +1,5 @@
+<img src="img/game1.jpeg" alt="Descripción" width="100%">
+
 # Open-Source-Games
 Appimage version of games.
 
@@ -98,6 +100,7 @@ Games included so far:
 Games:                                           https://github.com/Uthopik/Open-Source-Games/releases/tag/v1.0
 
 ---
+<img src="img/game2.jpeg" alt="Descripción" width="100%">
 
 If there’s an old game or programme you’d like to see in this collection, let me know and I’ll see what I can do. Just make sure it’s open source.
 
