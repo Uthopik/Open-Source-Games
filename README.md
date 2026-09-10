@@ -1,15 +1,15 @@
 <img src="img/game1.jpeg" alt="Descripción" width="100%">
 
 # Open-Source-Games
-Appimage version of games.
+**Appimage** version of **games.**
 
 ---
 
-There are some games that are hard to find in AppImage format, which I like. There are also some that are tricky to compile or install because they’re old and have been abandoned. With the help of AI, I’ve compiled and packaged the ones I found most interesting in AppImage format.
+There are some **games** that are hard to find in **AppImage** format, which I like. There are also some that are tricky to compile or install because they’re old and have been abandoned. With the help of AI, I’ve compiled and packaged the ones I found most interesting in **AppImage** format.
 
 ---
 
-Games included so far:
+**Games** included so far:
 
 * **Angry_Drunken_Dwarves-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Games/releases/download/v1.0/Angry_Drunken_Dwarves-x86_64.AppImage)**         [Official website](https://sourceforge.net/projects/archiveapp-game/files/a/angrydd/)
 
@@ -99,11 +99,11 @@ Games included so far:
 
 ---
 
-Games:                                           https://github.com/Uthopik/Open-Source-Games/releases/tag/v1.0
+**Games:**                                           https://github.com/Uthopik/Open-Source-Games/releases/tag/v1.0
 
 ---
 <img src="img/game2.jpeg" alt="Descripción" width="100%">
 
-If there’s an old game or programme you’d like to see in this collection, let me know and I’ll see what I can do. Just make sure it’s open source.
+If there’s an old **game** or program you’d like to see in this collection, let me know and I’ll see what I can do. Just make sure it’s **open source.**
 
 email: josearrillaga@ik.me
