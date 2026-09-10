@@ -27,75 +27,75 @@ Games included so far:
 
 * **Enigma-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Games/releases/download/v1.0/Enigma-x86_64.AppImage)**                         [Official website](https://www.nongnu.org/enigma)
 
-* Extreme_Tux_Racer-x86_64.AppImage              [Official website](https://sourceforge.net/projects/extremetuxracer)
+* **Extreme_Tux_Racer-x86_64.AppImage**              [Official website](https://sourceforge.net/projects/extremetuxracer)
 
-* FiveOrMore-x86_64.AppImage                     [Official website](https://gitlab.gnome.org/GNOME/five-or-more)
+* **FiveOrMore-x86_64.AppImage**                     [Official website](https://gitlab.gnome.org/GNOME/five-or-more)
 
-* Four-in-a-Row-x86_64.AppImage                  [Official website](https://gitlab.gnome.org/GNOME/four-in-a-row)
+* **Four-in-a-Row-x86_64.AppImage**                  [Official website](https://gitlab.gnome.org/GNOME/four-in-a-row)
 
-* Frozen_Bubble-x86_64.AppImage                  [Official website](https://github.com/kthakore/frozen-bubble)
+* **Frozen_Bubble-x86_64.AppImage**                  [Official website](https://github.com/kthakore/frozen-bubble)
 
-* GNURobbo-i686.AppImage                         [Official website](https://gnurobbo.sourceforge.net)
+* **GNURobbo-i686.AppImage**                         [Official website](https://gnurobbo.sourceforge.net)
 
-* GPlanarity-i686.AppImage                       [Official website](https://web.mit.edu/xiphmont/Public/gPlanarity.html)
+* **GPlanarity-i686.AppImage**                       [Official website](https://web.mit.edu/xiphmont/Public/gPlanarity.html)
 
-* Gweled-x86_64.AppImage                         [Official website](https://gweled.org)
+* **Gweled-x86_64.AppImage**                         [Official website](https://gweled.org)
 
-* KMahjongg-x86_64.AppImage                      [Official website](https://apps.kde.org/es/kmahjongg)
+* **KMahjongg-x86_64.AppImage**                      [Official website](https://apps.kde.org/es/kmahjongg)
 
-* Kobo_Deluxe-x86_64.AppImage                    [Official website](https://olofson.net/kobodl)
+* **Kobo_Deluxe-x86_64.AppImage**                    [Official website](https://olofson.net/kobodl)
 
-* Mr.Boom-x86_64.AppImage                        [Official website](https://github.com/Javanaise/mrboom-libretro)
+* **Mr.Boom-x86_64.AppImage**                        [Official website](https://github.com/Javanaise/mrboom-libretro)
 
-* Neverball-x86_64.AppImage                      [Official website](https://github.com/Neverball/neverball)
+* **Neverball-x86_64.AppImage**                      [Official website](https://github.com/Neverball/neverball)
 
-* Open_Sonic-i686.AppImage                       [Official website](https://opensnc.sourceforge.net/home/index.php)
+* **Open_Sonic-i686.AppImage**                       [Official website](https://opensnc.sourceforge.net/home/index.php)
 
-* OpenTyrian-x86_64.AppImage                     [Official website](https://github.com/opentyrian/opentyrian)
+* **OpenTyrian-x86_64.AppImage**                     [Official website](https://github.com/opentyrian/opentyrian)
 
-* Pathological-x86_64.AppImage                   [Official website](https://sourceforge.net/projects/pathological)
+* **Pathological-x86_64.AppImage**                   [Official website](https://sourceforge.net/projects/pathological)
 
-* Pingus-x86_64.AppImage                         [Official website](https://pingus.seul.org)
+* **Pingus-x86_64.AppImage**                         [Official website](https://pingus.seul.org)
 
-* Powermanga-x86_64.AppImage                     [Official website](https://github.com/brunonymous/Powermanga)
+* **Powermanga-x86_64.AppImage**                     [Official website](https://github.com/brunonymous/Powermanga)
 
-* Reversi-x86_64.AppImage                        [Official website](https://gitlab.gnome.org/GNOME/iagno)
+* **Reversi-x86_64.AppImage**                        [Official website](https://gitlab.gnome.org/GNOME/iagno)
 
-* Ri-li-x86_64.AppImage                          [Official website](https://ri-li.sourceforge.net/index.html)
+* **Ri-li-x86_64.AppImage**                          [Official website](https://ri-li.sourceforge.net/index.html)
 
-* Secret-Maryo-Chronicles-i686.AppImage          [Official website](http://www.secretmaryo.org)
+* **Secret-Maryo-Chronicles-i686.AppImage**          [Official website](http://www.secretmaryo.org)
 
-* Solitario_Aislerot-x86_64.AppImage             [Official website](https://gitlab.gnome.org/GNOME/aisleriot)
+* **Solitario_Aislerot-x86_64.AppImage**             [Official website](https://gitlab.gnome.org/GNOME/aisleriot)
 
-* Sonic_Robo_Blast_2-x86_64.Appimage             [Official website](https://github.com/STJr/SRB2)
+* **Sonic_Robo_Blast_2-x86_64.Appimage**             [Official website](https://github.com/STJr/SRB2)
 
-* SRB2Kart-x86_64.AppImage                       [Official website](https://github.com/STJr/Kart-Public)
+* **SRB2Kart-x86_64.AppImage**                       [Official website](https://github.com/STJr/Kart-Public)
 
-* Starfighter-x86_64.AppImage                    [Official website](https://github.com/pr-starfighter/starfighter)
+* **Starfighter-x86_64.AppImage**                    [Official website](https://github.com/pr-starfighter/starfighter)
 
-* Sudoku-x86_64.AppImage                         [Official website](https://github.com/sepehr-rs/Sudoku)
+* **Sudoku-x86_64.AppImage**                         [Official website](https://github.com/sepehr-rs/Sudoku)
 
-* Super_Tux_Advance-x86_64.AppImage              [Official website](https://github.com/kelvinshadewing/supertux-advance)
+* **Super_Tux_Advance-x86_64.AppImage**              [Official website](https://github.com/kelvinshadewing/supertux-advance)
 
-* SuperTuxKart-x86_64.AppImage                   [Official website](https://github.com/supertuxkart/stk-code)
+* **SuperTuxKart-x86_64.AppImage**                   [Official website](https://github.com/supertuxkart/stk-code)
 
-* Taisei_Project-x86_64.AppImage                 [Official website](https://github.com/taisei-project/taisei)
+* **Taisei_Project-x86_64.AppImage**                 [Official website](https://github.com/taisei-project/taisei)
 
-* TecnoballZ-x86_64.AppImage                     [Official website](https://github.com/brunonymous/tecnoballz)
+* **TecnoballZ-x86_64.AppImage**                     [Official website](https://github.com/brunonymous/tecnoballz)
 
-* TileWorld-x86_64.AppImage                      [Official website](https://www.muppetlabs.com/~breadbox/software/tworld)
+* **TileWorld-x86_64.AppImage**                      [Official website](https://www.muppetlabs.com/~breadbox/software/tworld)
 
-* TileWorld2-x86_64.AppImage                     [Official website](https://tw2.bitbusters.club)
+* **TileWorld2-x86_64.AppImage**                     [Official website](https://tw2.bitbusters.club)
 
-* TripFunnyBoat-x86_64.AppImage                  [Official website](https://funnyboat.sourceforge.net/index.html)
+* **TripFunnyBoat-x86_64.AppImage**                  [Official website](https://funnyboat.sourceforge.net/index.html)
 
-* Turres_Monacorum-x86_64.AppImage               [Official website](https://github.com/nczempin/Turres-Monacorum)
+* **Turres_Monacorum-x86_64.AppImage**               [Official website](https://github.com/nczempin/Turres-Monacorum)
 
-* Whichwayisup-x86_64.AppImage                   [Official website](https://salsa.debian.org/games-team/whichwayisup)
+* **Whichwayisup-x86_64.AppImage**                   [Official website](https://salsa.debian.org/games-team/whichwayisup)
 
-* Wizznic-x86_64.AppImage                        [Official website](https://sourceforge.net/projects/wizznic)
+* **Wizznic-x86_64.AppImage**                        [Official website](https://sourceforge.net/projects/wizznic)
 
-* XGalaga-x86_64.AppImage                        [Official website](https://sourceforge.net/projects/xgalaga/)
+* **XGalaga-x86_64.AppImage**                        [Official website](https://sourceforge.net/projects/xgalaga/)
 
 ---
 
