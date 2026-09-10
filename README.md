@@ -11,21 +11,21 @@ There are some games that are hard to find in AppImage format, which I like. The
 
 Games included so far:
 
-* Angry_Drunken_Dwarves-x86_64.AppImage          [Official website](https://sourceforge.net/projects/archiveapp-game/files/a/angrydd/)
+* **Angry_Drunken_Dwarves-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Games/releases/download/v1.0/Angry_Drunken_Dwarves-x86_64.AppImage)**         [Official website](https://sourceforge.net/projects/archiveapp-game/files/a/angrydd/)
 
-* AstroMenace-x86_64.AppImage                    [Official website](https://github.com/viewizard/astromenace)
+* **AstroMenace-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Games/releases/download/v1.0/AstroMenace-x86_64.AppImage)**                 [Official website](https://github.com/viewizard/astromenace)
 
-* Berusky-i686.AppImage                          [Official website](https://anakreon.cz/berusky1.html)
+* **Berusky-i686.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Games/releases/download/v1.0/Berusky-i686.AppImage)**                          [Official website](https://anakreon.cz/berusky1.html)
 
-* BlockOut_II-x86_64.AppImage                    [Official website](http://www.blockout.net/blockout2)
+* **BlockOut_II-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Games/releases/download/v1.0/BlockOut_II-x86_64.AppImage)**                   [Official website](http://www.blockout.net/blockout2)
 
-* Bomberclone-x86_64.AppImage                    [Official website](https://github.com/promi/bomberclone)
+* **Bomberclone-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Games/releases/download/v1.0/Bomberclone-x86_64.AppImage)**                    [Official website](https://github.com/promi/bomberclone)
 
-* Briquolo-x86_64.AppImage                       [Official website](http://briquolo.free.fr/en/infos.html)
+* **Briquolo-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Games/releases/download/v1.0/Briquolo-x86_64.AppImage)**                       [Official website](http://briquolo.free.fr/en/infos.html)
 
-* CuteMaze-x86_64.AppImage                       [Official website](https://gottcode.org/cutemaze)
+* **CuteMaze-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Games/releases/download/v1.0/CuteMaze-x86_64.AppImage)**                      [Official website](https://gottcode.org/cutemaze)
 
-* Enigma-x86_64.AppImage                         [Official website](https://www.nongnu.org/enigma)
+* **Enigma-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Games/releases/download/v1.0/Enigma-x86_64.AppImage)**                         [Official website](https://www.nongnu.org/enigma)
 
 * Extreme_Tux_Racer-x86_64.AppImage              [Official website](https://sourceforge.net/projects/extremetuxracer)
 
