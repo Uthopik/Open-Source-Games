@@ -23,7 +23,7 @@ There are some **games** that are hard to find in **AppImage** format, which I l
 
 * **Briquolo-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Games/releases/download/v1.0/Briquolo-x86_64.AppImage)**                       [Official website](http://briquolo.free.fr/en/infos.html)
 
-* **Chromium_B.S.U.-x86_64** **[Download](https://github.com/Uthopik/Open-Source-Games/releases/download/v1.0/Chromium_B.S.U.-x86_64.AppImage)**          [Official website](https://sourceforge.net/projects/chromium-bsu/)
+* **Chromium_B.S.U.-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Games/releases/download/v1.0/Chromium_B.S.U.-x86_64.AppImage)**   [Official website](https://sourceforge.net/projects/chromium-bsu/)
 
 * **CuteMaze-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Games/releases/download/v1.0/CuteMaze-x86_64.AppImage)**                      [Official website](https://gottcode.org/cutemaze)
 
