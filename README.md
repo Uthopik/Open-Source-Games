@@ -1,4 +1,4 @@
-<img src="img/game1.jpeg" alt="Descripción" width="100%">
+<img src="img/game.gif" alt="Descripción" width="100%">
 
 # Open-Source-Games
 **Appimage** version of **games.**
