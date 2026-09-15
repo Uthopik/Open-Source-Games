@@ -61,6 +61,8 @@ There are some **games** that are hard to find in **AppImage** format, which I l
 
 * **Powermanga-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Games/releases/download/v1.0/Powermanga-x86_64.AppImage)**                     [Official website](https://github.com/brunonymous/Powermanga)
 
+* **ReTux-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Games/releases/download/v1.0/ReTux-x86_64.AppImage)**                        [Official website](https://github.com/retux-game/retux)
+
 * **Reversi-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Games/releases/download/v1.0/Reversi-x86_64.AppImage)**                        [Official website](https://gitlab.gnome.org/GNOME/iagno)
 
 * **Ri-li-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Games/releases/download/v1.0/Ri-li-x86_64.AppImage)**                          [Official website](https://ri-li.sourceforge.net/index.html)
