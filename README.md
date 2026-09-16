@@ -106,7 +106,7 @@ There are some **games** that are hard to find in **AppImage** format, which I l
 **Games:**                                           https://github.com/Uthopik/Open-Source-Games/releases/tag/v1.0
 
 ---
-<img src="img/game2.jpeg" alt="Descripción" width="100%">
+<img src="img/game2.gif" alt="Descripción" width="100%">
 
 If there’s an old **game** or program you’d like to see in this collection, let me know and I’ll see what I can do. Just make sure it’s **open source.**
 
