@@ -47,6 +47,8 @@ There are some **games** that are hard to find in **AppImage** format, which I l
 
 * **Kobo_Deluxe-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Games/releases/download/v1.0/Kobo_Deluxe-x86_64.AppImage)**                    [Official website](https://olofson.net/kobodl)
 
+* **Me_and_My_Shadow-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Games/releases/download/v1.0/Me_and_My_Shadow-x86_64.AppImage)**      [Official website](https://github.com/acmepjz/meandmyshadow)
+
 * **Mr.Boom-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Games/releases/download/v1.0/Mr.Boom-x86_64.AppImage)**                        [Official website](https://github.com/Javanaise/mrboom-libretro)
 
 * **Neverball-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Games/releases/download/v1.0/Neverball-x86_64.AppImage)**                      [Official website](https://github.com/Neverball/neverball)
