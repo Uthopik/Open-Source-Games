@@ -43,6 +43,8 @@ There are some **games** that are hard to find in **AppImage** format, which I l
 
 * **Gweled-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Games/releases/download/v1.0/Gweled-x86_64.AppImage)**                         [Official website](https://gweled.org)
 
+* **Hex-a-hop-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Games/releases/download/v1.0/Hex-a-hop-x86_64.AppImage)**                 [Official website](https://sourceforge.net/projects/hexahop)
+
 * **KMahjongg-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Games/releases/download/v1.0/KMahjongg-x86_64.AppImage)**                      [Official website](https://apps.kde.org/es/kmahjongg)
 
 * **Kobo_Deluxe-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Games/releases/download/v1.0/Kobo_Deluxe-x86_64.AppImage)**                    [Official website](https://olofson.net/kobodl)
