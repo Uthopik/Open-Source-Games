@@ -55,7 +55,9 @@ There are some **games** that are hard to find in **AppImage** format, which I l
 
 * **Neverball-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Games/releases/download/v1.0/Neverball-x86_64.AppImage)**                      [Official website](https://github.com/Neverball/neverball)
 
-* **Open_Sonic-i686.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Games/releases/download/v1.0/Open_Sonic-i686.AppImage)**                       [Official website](https://opensnc.sourceforge.net/home/index.php)
+* **Open_Sonic-i686.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Games/releases/download/v1.0/Open_Sonic-i686.AppImage)**               [Official website](https://opensnc.sourceforge.net/home/index.php)
+
+* **Open_Sonic-wine-i686.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Games/releases/download/v1.0/Open_Sonic-wine-i686.AppImage)**      [Official website](https://opensnc.sourceforge.net/home/index.php)
 
 * **OpenTyrian-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Games/releases/download/v1.0/OpenTyrian-x86_64.AppImage)**                     [Official website](https://github.com/opentyrian/opentyrian)
 
