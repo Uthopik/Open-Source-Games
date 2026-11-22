@@ -33,7 +33,9 @@ There are some **games** that are hard to find in **AppImage** format, which I l
 
 * **FiveOrMore-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Games/releases/download/v1.0/FiveOrMore-x86_64.AppImage)**                     [Official website](https://gitlab.gnome.org/GNOME/five-or-more)
 
-* **Four-in-a-Row-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Games/releases/download/v1.0/Four-in-a-Row-x86_64.AppImage)**                  [Official website](https://gitlab.gnome.org/GNOME/four-in-a-row)
+* **Four-in-a-Row-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Games/releases/download/v1.0/Four-in-a-Row-x86_64.AppImage)**        [Official website](https://gitlab.gnome.org/GNOME/four-in-a-row)
+
+* **Freegemas-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Games/releases/download/v1.0/Freegemas-x86_64.AppImage)**        [Official website](https://github.com/josetomastocino/freegemas)
 
 * **Frozen_Bubble-x86_64.AppImage** **[Download](https://github.com/Uthopik/Open-Source-Games/releases/download/v1.0/Frozen_Bubble-x86_64.AppImage)**                  [Official website](https://github.com/kthakore/frozen-bubble)
 
